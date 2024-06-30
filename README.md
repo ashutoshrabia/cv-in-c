@@ -1,6 +1,6 @@
 # cv-in-c
 
-This repository contains the implementation of a Computer Vision (CV) Library in C based on the online course by [pjreddie](https://pjreddie.com/courses/computer-vision/).
+This repository contains the implementation of a Computer Vision (CV) Library in C under the project offered by Stamatics, IITK (based on the online course by [pjreddie](https://pjreddie.com/courses/computer-vision/)).
 
 The library codebase is incremental (i.e. code of `hw1` is included in `hw2`)
 
