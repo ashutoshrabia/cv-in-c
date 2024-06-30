@@ -1,0 +1,6 @@
+[submodule "cv-in-c-hw1"]
+	path = cv-in-c-hw1
+	url = https://github.com/npqr/cv-in-c-hw1.git
+[submodule "cv-in-c-hw2"]
+	path = cv-in-c-hw2
+	url = https://github.com/npqr/cv-in-c-hw2.git
